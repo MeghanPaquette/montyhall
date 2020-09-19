@@ -1,0 +1,18 @@
+Package: montyhall
+Title: Monty Hall Game Simulation
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Meghan",
+           family = "Paquette",
+           role = c("aut", "cre"),
+           email = "megpaquette7@gmail.com",
+           comment = c(ORCID = "Do not have an ORCID"))
+Description: This package run various functions and simulations of the Monty Hall Simulation. The Monty Hall questions are based on the game show "Let's Make a Deal." This package will provide statistical outcomes and simulations that settle the debate as to whether it is better to stay or switch when it comes to changing doors in the game. 
+Depends: 
+   dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
